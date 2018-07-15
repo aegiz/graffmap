@@ -1,0 +1,34 @@
+// Resets
+
+* {
+	box-sizing: border-box;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+body,
+html {
+	width: 100%;
+	height: 100%;
+	background: #fff;
+	font-family: 'Proxima', Helvetica, Roboto, Arial, sans-serif;
+	@include fs(16);
+	color: #222;
+	font-weight: normal;
+	font-style: normal;
+	line-height: 1.5;
+	margin: 0;
+	padding: 0;
+}
+
+img {
+	display: block;
+}
+
+h1,
+h2,
+h3,
+p {
+	margin: 0;
+}

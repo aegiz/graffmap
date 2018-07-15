@@ -1,0 +1,1777 @@
+[
+  {
+    "count_like": 1,
+    "count_report": 0,
+    "createdAt": "2017-08-05T08:47:48.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "19ade8d1-bdcf-47ee-a007-453a7d9a2778.jpg",
+      "url": "/original/19ade8d1-bdcf-47ee-a007-453a7d9a2778.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.141033333333333,
+        50.8282694444444
+      ]
+    },
+    "objectId": "tbjb8dbslz",
+    "thumbnail": {
+      "type": "File",
+      "name": "19ade8d1-bdcf-47ee-a007-453a7d9a2778.jpg",
+      "url": "/thumbnail/19ade8d1-bdcf-47ee-a007-453a7d9a2778.jpg"
+    },
+    "updatedAt": "2017-08-05T08:47:48.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "street art",
+      "graffiti"
+    ]
+  },
+  {
+    "count_like": 1,
+    "count_report": 0,
+    "createdAt": "2017-08-05T08:47:54.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "6ffe5fbc-a74b-4991-8440-3fc8e173e435.jpg",
+      "url": "/original/6ffe5fbc-a74b-4991-8440-3fc8e173e435.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.140827777777778,
+        50.8285166666667
+      ]
+    },
+    "objectId": "4xaxnopudc",
+    "thumbnail": {
+      "type": "File",
+      "name": "6ffe5fbc-a74b-4991-8440-3fc8e173e435.jpg",
+      "url": "/thumbnail/6ffe5fbc-a74b-4991-8440-3fc8e173e435.jpg"
+    },
+    "updatedAt": "2017-08-05T08:47:54.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "street art",
+      "graffiti",
+      "mural",
+      "cool",
+      "product",
+      "collage"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-07-30T06:58:42.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "6ef400bc-a286-45cf-9363-b08c26eb1d7e.jpg",
+      "url": "/original/6ef400bc-a286-45cf-9363-b08c26eb1d7e.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.115036111111111,
+        51.5069694444444
+      ]
+    },
+    "objectId": "4p16ghxqpq",
+    "thumbnail": {
+      "type": "File",
+      "name": "6ef400bc-a286-45cf-9363-b08c26eb1d7e.jpg",
+      "url": "/thumbnail/6ef400bc-a286-45cf-9363-b08c26eb1d7e.jpg"
+    },
+    "updatedAt": "2017-07-30T06:58:42.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "wall",
+      "street art",
+      "art",
+      "graffiti",
+      "mural"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-26T01:11:22.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "15f24fb4-2ee1-436e-a49c-a8b7eb857962.jpg",
+      "url": "/original/15f24fb4-2ee1-436e-a49c-a8b7eb857962.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.206147222222222,
+        51.5175666666667
+      ]
+    },
+    "objectId": "kyq4viogj0",
+    "thumbnail": {
+      "type": "File",
+      "name": "15f24fb4-2ee1-436e-a49c-a8b7eb857962.jpg",
+      "url": "/thumbnail/15f24fb4-2ee1-436e-a49c-a8b7eb857962.jpg"
+    },
+    "updatedAt": "2017-09-26T01:11:22.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "street art",
+      "art",
+      "building",
+      "mural",
+      "facade",
+      "sculpture",
+      "graffiti"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T12:15:40.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "c8f07052-3481-4391-8020-5eb4679659d5.jpg",
+      "url": "/original/c8f07052-3481-4391-8020-5eb4679659d5.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0719555555555556,
+        51.5193222222222
+      ]
+    },
+    "objectId": "wgqp7wae97",
+    "thumbnail": {
+      "type": "File",
+      "name": "c8f07052-3481-4391-8020-5eb4679659d5.jpg",
+      "url": "/thumbnail/c8f07052-3481-4391-8020-5eb4679659d5.jpg"
+    },
+    "updatedAt": "2017-09-03T12:15:40.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "blue",
+      "x ray",
+      "art",
+      "electric blue",
+      "glass",
+      "modern art",
+      "graffiti",
+      "street art"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-26T01:11:28.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "25391c11-efa0-4560-8804-c3e13d70c240.jpg",
+      "url": "/original/25391c11-efa0-4560-8804-c3e13d70c240.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.207238888888889,
+        51.5191333333333
+      ]
+    },
+    "objectId": "z6p00j419r",
+    "thumbnail": {
+      "type": "File",
+      "name": "25391c11-efa0-4560-8804-c3e13d70c240.jpg",
+      "url": "/thumbnail/25391c11-efa0-4560-8804-c3e13d70c240.jpg"
+    },
+    "updatedAt": "2017-09-26T01:11:28.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "street art",
+      "wall",
+      "graffiti",
+      "street",
+      "road",
+      "mural"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-26T01:11:22.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "0509952d-38e0-457a-bbf5-184148476b17.jpg",
+      "url": "/original/0509952d-38e0-457a-bbf5-184148476b17.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.207294444444444,
+        51.5191305555556
+      ]
+    },
+    "objectId": "kge5e6xg48",
+    "thumbnail": {
+      "type": "File",
+      "name": "0509952d-38e0-457a-bbf5-184148476b17.jpg",
+      "url": "/thumbnail/0509952d-38e0-457a-bbf5-184148476b17.jpg"
+    },
+    "updatedAt": "2017-09-26T01:11:22.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "graffiti",
+      "art",
+      "street art"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-26T01:11:26.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "97f50488-21ab-41cb-b3a1-ccba40ebbd12.jpg",
+      "url": "/original/97f50488-21ab-41cb-b3a1-ccba40ebbd12.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.207283333333333,
+        51.5190888888889
+      ]
+    },
+    "objectId": "mrzzfl8ew7",
+    "thumbnail": {
+      "type": "File",
+      "name": "97f50488-21ab-41cb-b3a1-ccba40ebbd12.jpg",
+      "url": "/thumbnail/97f50488-21ab-41cb-b3a1-ccba40ebbd12.jpg"
+    },
+    "updatedAt": "2017-09-26T01:11:26.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "wall",
+      "street art",
+      "graffiti",
+      "mural"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-26T01:11:20.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "0787d3e1-dd1d-4e16-b95d-c7de9c1f4265.jpg",
+      "url": "/original/0787d3e1-dd1d-4e16-b95d-c7de9c1f4265.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.207513888888889,
+        51.5192833333333
+      ]
+    },
+    "objectId": "g59lij9y67",
+    "thumbnail": {
+      "type": "File",
+      "name": "0787d3e1-dd1d-4e16-b95d-c7de9c1f4265.jpg",
+      "url": "/thumbnail/0787d3e1-dd1d-4e16-b95d-c7de9c1f4265.jpg"
+    },
+    "updatedAt": "2017-09-26T01:11:20.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "motor vehicle",
+      "vehicle",
+      "tank",
+      "combat vehicle",
+      "weapon",
+      "graffiti",
+      "art",
+      "street art"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-26T01:11:24.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "9565bc9d-c0a4-42a4-916b-4c79eda82a9e.jpg",
+      "url": "/original/9565bc9d-c0a4-42a4-916b-4c79eda82a9e.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.207627777777778,
+        51.5192638888889
+      ]
+    },
+    "objectId": "93yrph0sgb",
+    "thumbnail": {
+      "type": "File",
+      "name": "9565bc9d-c0a4-42a4-916b-4c79eda82a9e.jpg",
+      "url": "/thumbnail/9565bc9d-c0a4-42a4-916b-4c79eda82a9e.jpg"
+    },
+    "updatedAt": "2017-09-26T01:11:24.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "street art",
+      "art",
+      "graffiti"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T13:24:10.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "b2450106-7a2d-4346-b377-b5e33badaed4.jpg",
+      "url": "/original/b2450106-7a2d-4346-b377-b5e33badaed4.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.076,
+        51.521
+      ]
+    },
+    "objectId": "68g4t666hm",
+    "thumbnail": {
+      "type": "File",
+      "name": "b2450106-7a2d-4346-b377-b5e33badaed4.jpg",
+      "url": "/thumbnail/b2450106-7a2d-4346-b377-b5e33badaed4.jpg"
+    },
+    "updatedAt": "2017-09-03T13:24:10.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "mammal",
+      "wildlife",
+      "fauna",
+      "big cats",
+      "leopard",
+      "tiger",
+      "art",
+      "whiskers",
+      "street art",
+      "carnivoran",
+      "graffiti"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T12:21:28.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "86b69f06-c372-4bbf-a11a-be84f7218d07.jpg",
+      "url": "/original/86b69f06-c372-4bbf-a11a-be84f7218d07.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0713027777777778,
+        51.5222805555556
+      ]
+    },
+    "objectId": "y53owuacyk",
+    "thumbnail": {
+      "type": "File",
+      "name": "86b69f06-c372-4bbf-a11a-be84f7218d07.jpg",
+      "url": "/thumbnail/86b69f06-c372-4bbf-a11a-be84f7218d07.jpg"
+    },
+    "updatedAt": "2017-09-03T12:21:28.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "street art",
+      "graffiti",
+      "mural"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T12:18:14.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "78fc2b74-beff-4985-a51f-702acdf95867.jpg",
+      "url": "/original/78fc2b74-beff-4985-a51f-702acdf95867.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.071125,
+        51.5219416666667
+      ]
+    },
+    "objectId": "5eocgo7sox",
+    "thumbnail": {
+      "type": "File",
+      "name": "78fc2b74-beff-4985-a51f-702acdf95867.jpg",
+      "url": "/thumbnail/78fc2b74-beff-4985-a51f-702acdf95867.jpg"
+    },
+    "updatedAt": "2017-09-03T12:18:14.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "font",
+      "street art",
+      "history",
+      "graffiti",
+      "art"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T12:17:30.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "fc39b8fe-4f51-4b48-a59c-55ced9f9b619.jpg",
+      "url": "/original/fc39b8fe-4f51-4b48-a59c-55ced9f9b619.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0711555555555556,
+        51.5219583333333
+      ]
+    },
+    "objectId": "rrr7itxj53",
+    "thumbnail": {
+      "type": "File",
+      "name": "fc39b8fe-4f51-4b48-a59c-55ced9f9b619.jpg",
+      "url": "/thumbnail/fc39b8fe-4f51-4b48-a59c-55ced9f9b619.jpg"
+    },
+    "updatedAt": "2017-09-03T12:17:30.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "graffiti",
+      "street art",
+      "mural",
+      "advertising",
+      "pattern"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T12:25:30.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "938e55d4-284e-4870-b67d-c1785edfe325.jpg",
+      "url": "/original/938e55d4-284e-4870-b67d-c1785edfe325.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0708833333333333,
+        51.5224722222222
+      ]
+    },
+    "objectId": "61zq6i015n",
+    "thumbnail": {
+      "type": "File",
+      "name": "938e55d4-284e-4870-b67d-c1785edfe325.jpg",
+      "url": "/thumbnail/938e55d4-284e-4870-b67d-c1785edfe325.jpg"
+    },
+    "updatedAt": "2017-09-03T12:25:30.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "street art",
+      "graffiti",
+      "action figure",
+      "mural"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T13:20:36.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "6f44f4a2-96dd-4243-b1b9-b7f48b4efcd4.jpg",
+      "url": "/original/6f44f4a2-96dd-4243-b1b9-b7f48b4efcd4.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0755527777777778,
+        51.5222638888889
+      ]
+    },
+    "objectId": "ljp7naz4fa",
+    "thumbnail": {
+      "type": "File",
+      "name": "6f44f4a2-96dd-4243-b1b9-b7f48b4efcd4.jpg",
+      "url": "/thumbnail/6f44f4a2-96dd-4243-b1b9-b7f48b4efcd4.jpg"
+    },
+    "updatedAt": "2017-09-03T13:20:36.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "graffiti",
+      "street art",
+      "mural",
+      "wall",
+      "window"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-26T01:11:20.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "c0cb9fd8-54ac-4708-83a0-215042e131f0.jpg",
+      "url": "/original/c0cb9fd8-54ac-4708-83a0-215042e131f0.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.193230555555556,
+        51.522225
+      ]
+    },
+    "objectId": "qzpadc8y58",
+    "thumbnail": {
+      "type": "File",
+      "name": "c0cb9fd8-54ac-4708-83a0-215042e131f0.jpg",
+      "url": "/thumbnail/c0cb9fd8-54ac-4708-83a0-215042e131f0.jpg"
+    },
+    "updatedAt": "2017-09-26T01:11:20.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "fauna",
+      "beak",
+      "street art",
+      "art",
+      "bird",
+      "painting",
+      "feather",
+      "pelecaniformes",
+      "mural",
+      "heron",
+      "graffiti"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T13:25:04.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "8db4997a-ca62-4822-80ad-eb4e9630b6c4.jpg",
+      "url": "/original/8db4997a-ca62-4822-80ad-eb4e9630b6c4.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.068,
+        51.523
+      ]
+    },
+    "objectId": "vg3ces3d95",
+    "thumbnail": {
+      "type": "File",
+      "name": "8db4997a-ca62-4822-80ad-eb4e9630b6c4.jpg",
+      "url": "/thumbnail/8db4997a-ca62-4822-80ad-eb4e9630b6c4.jpg"
+    },
+    "updatedAt": "2017-09-03T13:25:04.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "graffiti",
+      "mural",
+      "street art",
+      "painting",
+      "artwork"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T12:24:48.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "0accbd5a-e0ce-406c-ba4f-68ae5aea6b43.jpg",
+      "url": "/original/0accbd5a-e0ce-406c-ba4f-68ae5aea6b43.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0684888888888889,
+        51.5231138888889
+      ]
+    },
+    "objectId": "xictdmbp47",
+    "thumbnail": {
+      "type": "File",
+      "name": "0accbd5a-e0ce-406c-ba4f-68ae5aea6b43.jpg",
+      "url": "/thumbnail/0accbd5a-e0ce-406c-ba4f-68ae5aea6b43.jpg"
+    },
+    "updatedAt": "2017-09-03T12:24:48.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "graffiti",
+      "mural",
+      "painting",
+      "street art",
+      "artwork"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T12:24:18.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "3733272e-efb9-42d7-aa6b-ea39a365eaca.jpg",
+      "url": "/original/3733272e-efb9-42d7-aa6b-ea39a365eaca.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0682694444444445,
+        51.5230444444444
+      ]
+    },
+    "objectId": "fbu55enw5p",
+    "thumbnail": {
+      "type": "File",
+      "name": "3733272e-efb9-42d7-aa6b-ea39a365eaca.jpg",
+      "url": "/thumbnail/3733272e-efb9-42d7-aa6b-ea39a365eaca.jpg"
+    },
+    "updatedAt": "2017-09-03T12:24:18.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "graffiti",
+      "water",
+      "street art",
+      "mural",
+      "organism",
+      "painting",
+      "modern art",
+      "visual arts",
+      "fiction"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T12:23:54.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "7439b8ec-3fcd-45c5-9d36-12de9c948891.jpg",
+      "url": "/original/7439b8ec-3fcd-45c5-9d36-12de9c948891.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0681972222222222,
+        51.5228416666667
+      ]
+    },
+    "objectId": "5oei3k017u",
+    "thumbnail": {
+      "type": "File",
+      "name": "7439b8ec-3fcd-45c5-9d36-12de9c948891.jpg",
+      "url": "/thumbnail/7439b8ec-3fcd-45c5-9d36-12de9c948891.jpg"
+    },
+    "updatedAt": "2017-09-03T12:23:54.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "graffiti",
+      "yellow",
+      "art",
+      "wall",
+      "street art",
+      "mural",
+      "area",
+      "painting",
+      "tree"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T13:25:10.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "2bb4d77b-fdcf-454a-844e-c935e3a980f7.jpg",
+      "url": "/original/2bb4d77b-fdcf-454a-844e-c935e3a980f7.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.068,
+        51.523
+      ]
+    },
+    "objectId": "khrt7m9gl8",
+    "thumbnail": {
+      "type": "File",
+      "name": "2bb4d77b-fdcf-454a-844e-c935e3a980f7.jpg",
+      "url": "/thumbnail/2bb4d77b-fdcf-454a-844e-c935e3a980f7.jpg"
+    },
+    "updatedAt": "2017-09-03T13:25:10.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "mural",
+      "graffiti",
+      "painting",
+      "modern art",
+      "organism",
+      "artwork",
+      "street art",
+      "graphics",
+      "computer wallpaper"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T12:23:36.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "a8be2c2d-5e6c-45b3-8ac7-bc2bec0d2792.jpg",
+      "url": "/original/a8be2c2d-5e6c-45b3-8ac7-bc2bec0d2792.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0691722222222222,
+        51.5229194444444
+      ]
+    },
+    "objectId": "tk1szpmdc3",
+    "thumbnail": {
+      "type": "File",
+      "name": "a8be2c2d-5e6c-45b3-8ac7-bc2bec0d2792.jpg",
+      "url": "/thumbnail/a8be2c2d-5e6c-45b3-8ac7-bc2bec0d2792.jpg"
+    },
+    "updatedAt": "2017-09-03T12:23:36.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "graffiti",
+      "art",
+      "street art",
+      "mural",
+      "font"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T12:25:04.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "aa4b6c0c-0ba1-49fa-bfc1-934e26eaed63.jpg",
+      "url": "/original/aa4b6c0c-0ba1-49fa-bfc1-934e26eaed63.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.069125,
+        51.5232111111111
+      ]
+    },
+    "objectId": "3j5eqyz5ma",
+    "thumbnail": {
+      "type": "File",
+      "name": "aa4b6c0c-0ba1-49fa-bfc1-934e26eaed63.jpg",
+      "url": "/thumbnail/aa4b6c0c-0ba1-49fa-bfc1-934e26eaed63.jpg"
+    },
+    "updatedAt": "2017-09-03T12:25:04.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "street art",
+      "mural",
+      "graffiti",
+      "painting",
+      "artwork"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T12:23:10.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "71b29442-b961-464b-bbfc-a22b00fd9f54.jpg",
+      "url": "/original/71b29442-b961-464b-bbfc-a22b00fd9f54.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0695555555555556,
+        51.5229416666667
+      ]
+    },
+    "objectId": "baonz3aw03",
+    "thumbnail": {
+      "type": "File",
+      "name": "71b29442-b961-464b-bbfc-a22b00fd9f54.jpg",
+      "url": "/thumbnail/71b29442-b961-464b-bbfc-a22b00fd9f54.jpg"
+    },
+    "updatedAt": "2017-09-03T12:23:10.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "graffiti",
+      "purple",
+      "pink",
+      "street art",
+      "font",
+      "graphics",
+      "mural"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T12:22:54.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "2eb0797f-1013-425a-a86f-9b3ff9c5da65.jpg",
+      "url": "/original/2eb0797f-1013-425a-a86f-9b3ff9c5da65.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0697416666666667,
+        51.5229861111111
+      ]
+    },
+    "objectId": "d1jx1zuw15",
+    "thumbnail": {
+      "type": "File",
+      "name": "2eb0797f-1013-425a-a86f-9b3ff9c5da65.jpg",
+      "url": "/thumbnail/2eb0797f-1013-425a-a86f-9b3ff9c5da65.jpg"
+    },
+    "updatedAt": "2017-09-03T12:22:54.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "street art",
+      "graffiti",
+      "mural",
+      "fictional character",
+      "painting",
+      "fiction"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T12:22:34.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "28f65240-d605-441a-a5e7-9c7384bc3568.jpg",
+      "url": "/original/28f65240-d605-441a-a5e7-9c7384bc3568.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0699111111111111,
+        51.5230305555556
+      ]
+    },
+    "objectId": "ilvsrgv0qh",
+    "thumbnail": {
+      "type": "File",
+      "name": "28f65240-d605-441a-a5e7-9c7384bc3568.jpg",
+      "url": "/thumbnail/28f65240-d605-441a-a5e7-9c7384bc3568.jpg"
+    },
+    "updatedAt": "2017-09-03T12:22:34.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "street art",
+      "art",
+      "beak",
+      "mural",
+      "graffiti"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T13:19:02.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "f34d0066-a7a5-4388-8986-1f8680a5e6fa.jpg",
+      "url": "/original/f34d0066-a7a5-4388-8986-1f8680a5e6fa.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.069925,
+        51.5233333333333
+      ]
+    },
+    "objectId": "tz8by0mgdv",
+    "thumbnail": {
+      "type": "File",
+      "name": "f34d0066-a7a5-4388-8986-1f8680a5e6fa.jpg",
+      "url": "/thumbnail/f34d0066-a7a5-4388-8986-1f8680a5e6fa.jpg"
+    },
+    "updatedAt": "2017-09-03T13:19:02.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "wall",
+      "graffiti",
+      "street art",
+      "mural",
+      "art",
+      "facade",
+      "gate",
+      "window",
+      "house"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T13:18:48.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "9bbfd373-e8d0-48d2-8285-d870d4f58c2a.jpg",
+      "url": "/original/9bbfd373-e8d0-48d2-8285-d870d4f58c2a.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.071175,
+        51.52335
+      ]
+    },
+    "objectId": "vy4jsrhcxy",
+    "thumbnail": {
+      "type": "File",
+      "name": "9bbfd373-e8d0-48d2-8285-d870d4f58c2a.jpg",
+      "url": "/thumbnail/9bbfd373-e8d0-48d2-8285-d870d4f58c2a.jpg"
+    },
+    "updatedAt": "2017-09-03T13:18:48.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "street art",
+      "wall",
+      "mural",
+      "graffiti",
+      "artwork"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T13:18:10.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "fd4eb0c1-2824-45c6-90fd-b5f7eef92c94.jpg",
+      "url": "/original/fd4eb0c1-2824-45c6-90fd-b5f7eef92c94.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0714972222222222,
+        51.5226138888889
+      ]
+    },
+    "objectId": "abnu90s3o3",
+    "thumbnail": {
+      "type": "File",
+      "name": "fd4eb0c1-2824-45c6-90fd-b5f7eef92c94.jpg",
+      "url": "/thumbnail/fd4eb0c1-2824-45c6-90fd-b5f7eef92c94.jpg"
+    },
+    "updatedAt": "2017-09-03T13:18:10.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "graffiti",
+      "street art",
+      "mural",
+      "artwork",
+      "painting",
+      "modern art"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T13:16:38.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "e57e99fe-58bd-41cd-8554-0ecf73374c88.jpg",
+      "url": "/original/e57e99fe-58bd-41cd-8554-0ecf73374c88.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0713055555555556,
+        51.5226083333333
+      ]
+    },
+    "objectId": "lle7tqdxud",
+    "thumbnail": {
+      "type": "File",
+      "name": "e57e99fe-58bd-41cd-8554-0ecf73374c88.jpg",
+      "url": "/thumbnail/e57e99fe-58bd-41cd-8554-0ecf73374c88.jpg"
+    },
+    "updatedAt": "2017-09-03T13:16:38.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "graffiti",
+      "street art",
+      "mural"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T12:22:16.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "f0797f09-6e40-4f5e-88f6-11326d503974.jpg",
+      "url": "/original/f0797f09-6e40-4f5e-88f6-11326d503974.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0706222222222222,
+        51.5228083333333
+      ]
+    },
+    "objectId": "4kekpd7rk2",
+    "thumbnail": {
+      "type": "File",
+      "name": "f0797f09-6e40-4f5e-88f6-11326d503974.jpg",
+      "url": "/thumbnail/f0797f09-6e40-4f5e-88f6-11326d503974.jpg"
+    },
+    "updatedAt": "2017-09-03T12:22:16.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "graffiti",
+      "wall",
+      "street art",
+      "art",
+      "mural",
+      "area",
+      "recreation"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T12:21:52.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "e3a12eac-568d-42e3-af93-eb7198a727cf.jpg",
+      "url": "/original/e3a12eac-568d-42e3-af93-eb7198a727cf.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0711666666666667,
+        51.5225055555556
+      ]
+    },
+    "objectId": "ymvvzy1yvk",
+    "thumbnail": {
+      "type": "File",
+      "name": "e3a12eac-568d-42e3-af93-eb7198a727cf.jpg",
+      "url": "/thumbnail/e3a12eac-568d-42e3-af93-eb7198a727cf.jpg"
+    },
+    "updatedAt": "2017-09-03T12:21:52.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "games",
+      "black and white",
+      "art",
+      "board game",
+      "indoor games and sports",
+      "chess",
+      "chessboard",
+      "recreation",
+      "street art",
+      "monochrome",
+      "graffiti"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T13:19:14.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "a830bd13-cc44-47fa-ab4b-b55b26937121.jpg",
+      "url": "/original/a830bd13-cc44-47fa-ab4b-b55b26937121.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0706694444444445,
+        51.5234944444444
+      ]
+    },
+    "objectId": "tk5ik9b5dr",
+    "thumbnail": {
+      "type": "File",
+      "name": "a830bd13-cc44-47fa-ab4b-b55b26937121.jpg",
+      "url": "/thumbnail/a830bd13-cc44-47fa-ab4b-b55b26937121.jpg"
+    },
+    "updatedAt": "2017-09-03T13:19:14.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "street art",
+      "graffiti",
+      "cat",
+      "mural"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T13:18:28.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "b7cbdf4d-42d0-498c-a589-089c54ad2d93.jpg",
+      "url": "/original/b7cbdf4d-42d0-498c-a589-089c54ad2d93.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0715055555555556,
+        51.5232555555556
+      ]
+    },
+    "objectId": "8ud7qhwp2w",
+    "thumbnail": {
+      "type": "File",
+      "name": "b7cbdf4d-42d0-498c-a589-089c54ad2d93.jpg",
+      "url": "/thumbnail/b7cbdf4d-42d0-498c-a589-089c54ad2d93.jpg"
+    },
+    "updatedAt": "2017-09-03T13:18:28.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "street art",
+      "graffiti",
+      "mural",
+      "wall",
+      "artwork"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T13:19:32.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "b6316a6f-518f-4027-ac2a-b22fcff82ec3.jpg",
+      "url": "/original/b6316a6f-518f-4027-ac2a-b22fcff82ec3.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0708611111111111,
+        51.5235166666667
+      ]
+    },
+    "objectId": "ild5ffw51h",
+    "thumbnail": {
+      "type": "File",
+      "name": "b6316a6f-518f-4027-ac2a-b22fcff82ec3.jpg",
+      "url": "/thumbnail/b6316a6f-518f-4027-ac2a-b22fcff82ec3.jpg"
+    },
+    "updatedAt": "2017-09-03T13:19:32.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "graffiti",
+      "street art",
+      "mural",
+      "modern art",
+      "painting",
+      "artwork"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T12:16:20.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "e119de39-de21-42c7-a110-72dbe6c98e26.jpg",
+      "url": "/original/e119de39-de21-42c7-a110-72dbe6c98e26.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0701527777777778,
+        51.5202527777778
+      ]
+    },
+    "objectId": "db8aop01us",
+    "thumbnail": {
+      "type": "File",
+      "name": "e119de39-de21-42c7-a110-72dbe6c98e26.jpg",
+      "url": "/thumbnail/e119de39-de21-42c7-a110-72dbe6c98e26.jpg"
+    },
+    "updatedAt": "2017-09-03T12:16:20.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "street art",
+      "mural",
+      "wall",
+      "graffiti",
+      "road",
+      "artwork"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T12:16:36.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "7bd87790-5761-48d3-8e1a-3bead904478d.jpg",
+      "url": "/original/7bd87790-5761-48d3-8e1a-3bead904478d.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.070275,
+        51.5202555555556
+      ]
+    },
+    "objectId": "yxozyt6tuj",
+    "thumbnail": {
+      "type": "File",
+      "name": "7bd87790-5761-48d3-8e1a-3bead904478d.jpg",
+      "url": "/thumbnail/7bd87790-5761-48d3-8e1a-3bead904478d.jpg"
+    },
+    "updatedAt": "2017-09-03T12:16:36.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "wall",
+      "mural",
+      "street art",
+      "advertising",
+      "art",
+      "artwork",
+      "graffiti"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T12:16:56.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "d83cb0fd-779d-4dd5-995d-8772f86ac481.jpg",
+      "url": "/original/d83cb0fd-779d-4dd5-995d-8772f86ac481.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0714916666666667,
+        51.5203444444444
+      ]
+    },
+    "objectId": "5w3n45lfjq",
+    "thumbnail": {
+      "type": "File",
+      "name": "d83cb0fd-779d-4dd5-995d-8772f86ac481.jpg",
+      "url": "/thumbnail/d83cb0fd-779d-4dd5-995d-8772f86ac481.jpg"
+    },
+    "updatedAt": "2017-09-03T12:16:56.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "neighbourhood",
+      "wall",
+      "town",
+      "road",
+      "street art",
+      "street",
+      "mural",
+      "graffiti",
+      "facade",
+      "art"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-09-03T12:17:10.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "e4a2952e-d3df-4ce2-b095-7b94f8a9160a.jpg",
+      "url": "/original/e4a2952e-d3df-4ce2-b095-7b94f8a9160a.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0713666666666667,
+        51.5203333333333
+      ]
+    },
+    "objectId": "hlk5wdmej3",
+    "thumbnail": {
+      "type": "File",
+      "name": "e4a2952e-d3df-4ce2-b095-7b94f8a9160a.jpg",
+      "url": "/thumbnail/e4a2952e-d3df-4ce2-b095-7b94f8a9160a.jpg"
+    },
+    "updatedAt": "2017-09-03T12:17:10.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "fauna",
+      "street art",
+      "wall",
+      "art",
+      "mural",
+      "graffiti"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-07-31T11:06:50.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "abcacf2c-5136-4473-84ad-52f2ecdb9ef4.jpg",
+      "url": "/original/abcacf2c-5136-4473-84ad-52f2ecdb9ef4.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0723583333333333,
+        51.5304416666667
+      ]
+    },
+    "objectId": "62ccajo9o1",
+    "thumbnail": {
+      "type": "File",
+      "name": "abcacf2c-5136-4473-84ad-52f2ecdb9ef4.jpg",
+      "url": "/thumbnail/abcacf2c-5136-4473-84ad-52f2ecdb9ef4.jpg"
+    },
+    "updatedAt": "2017-07-31T11:06:50.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "graffiti",
+      "wall",
+      "street art",
+      "mural",
+      "painting",
+      "street"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-07-31T11:07:02.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "cf84b98a-95d2-4fba-be16-314a41c6d637.jpg",
+      "url": "/original/cf84b98a-95d2-4fba-be16-314a41c6d637.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0744833333333333,
+        51.5300305555556
+      ]
+    },
+    "objectId": "489kpx88q2",
+    "thumbnail": {
+      "type": "File",
+      "name": "cf84b98a-95d2-4fba-be16-314a41c6d637.jpg",
+      "url": "/thumbnail/cf84b98a-95d2-4fba-be16-314a41c6d637.jpg"
+    },
+    "updatedAt": "2017-07-31T11:07:02.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "wall",
+      "building",
+      "urban area",
+      "town",
+      "brick",
+      "neighbourhood",
+      "city",
+      "sky",
+      "facade",
+      "street",
+      "graffiti",
+      "art",
+      "street art"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-07-31T11:07:42.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "e6babd0b-7d4b-4b11-a136-f090b7575f52.jpg",
+      "url": "/original/e6babd0b-7d4b-4b11-a136-f090b7575f52.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0752083333333333,
+        51.5302888888889
+      ]
+    },
+    "objectId": "4pn1akme2n",
+    "thumbnail": {
+      "type": "File",
+      "name": "e6babd0b-7d4b-4b11-a136-f090b7575f52.jpg",
+      "url": "/thumbnail/e6babd0b-7d4b-4b11-a136-f090b7575f52.jpg"
+    },
+    "updatedAt": "2017-07-31T11:07:42.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "wall",
+      "street art",
+      "art",
+      "graffiti",
+      "mural",
+      "street",
+      "road",
+      "font"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-07-31T11:07:32.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "c13d05d4-2c3e-4f3b-8e79-d5ee44a83469.jpg",
+      "url": "/original/c13d05d4-2c3e-4f3b-8e79-d5ee44a83469.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0747305555555556,
+        51.5298888888889
+      ]
+    },
+    "objectId": "0bvmknwxt2",
+    "thumbnail": {
+      "type": "File",
+      "name": "c13d05d4-2c3e-4f3b-8e79-d5ee44a83469.jpg",
+      "url": "/thumbnail/c13d05d4-2c3e-4f3b-8e79-d5ee44a83469.jpg"
+    },
+    "updatedAt": "2017-07-31T11:07:32.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "wall",
+      "street art",
+      "art",
+      "mural",
+      "graffiti"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-07-31T11:07:22.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "8da89087-9383-4ce5-9f5a-87c97a371bc9.jpg",
+      "url": "/original/8da89087-9383-4ce5-9f5a-87c97a371bc9.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0747027777777778,
+        51.5298305555556
+      ]
+    },
+    "objectId": "1ex5kvwrgx",
+    "thumbnail": {
+      "type": "File",
+      "name": "8da89087-9383-4ce5-9f5a-87c97a371bc9.jpg",
+      "url": "/thumbnail/8da89087-9383-4ce5-9f5a-87c97a371bc9.jpg"
+    },
+    "updatedAt": "2017-07-31T11:07:22.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "street art",
+      "graffiti",
+      "mural"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-07-31T11:07:12.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "584fcc11-1fbd-404a-ab52-ee3ada059e6f.jpg",
+      "url": "/original/584fcc11-1fbd-404a-ab52-ee3ada059e6f.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.07475,
+        51.5298111111111
+      ]
+    },
+    "objectId": "08hy5l3o96",
+    "thumbnail": {
+      "type": "File",
+      "name": "584fcc11-1fbd-404a-ab52-ee3ada059e6f.jpg",
+      "url": "/thumbnail/584fcc11-1fbd-404a-ab52-ee3ada059e6f.jpg"
+    },
+    "updatedAt": "2017-07-31T11:07:12.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "street art",
+      "wall",
+      "graffiti",
+      "mural",
+      "visual arts"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-07-31T11:08:02.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "b44e741e-996c-40aa-bb76-3acf9e0d7da4.jpg",
+      "url": "/original/b44e741e-996c-40aa-bb76-3acf9e0d7da4.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.0748861111111111,
+        51.5297
+      ]
+    },
+    "objectId": "5ejgoirj0s",
+    "thumbnail": {
+      "type": "File",
+      "name": "b44e741e-996c-40aa-bb76-3acf9e0d7da4.jpg",
+      "url": "/thumbnail/b44e741e-996c-40aa-bb76-3acf9e0d7da4.jpg"
+    },
+    "updatedAt": "2017-07-31T11:08:02.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "wall",
+      "street art",
+      "mural",
+      "art",
+      "graffiti",
+      "building",
+      "facade"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-07-31T11:07:52.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "01eb2aee-9477-49ae-938d-a72adb7904cc.jpg",
+      "url": "/original/01eb2aee-9477-49ae-938d-a72adb7904cc.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.075625,
+        51.5303527777778
+      ]
+    },
+    "objectId": "jg02ou6474",
+    "thumbnail": {
+      "type": "File",
+      "name": "01eb2aee-9477-49ae-938d-a72adb7904cc.jpg",
+      "url": "/thumbnail/01eb2aee-9477-49ae-938d-a72adb7904cc.jpg"
+    },
+    "updatedAt": "2017-07-31T11:07:52.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "wall",
+      "art",
+      "street art",
+      "mural",
+      "facade",
+      "graffiti",
+      "arch",
+      "window",
+      "road",
+      "street"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-07-30T07:02:40.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "779172d8-d50b-4386-a720-ae1ca561b916.jpg",
+      "url": "/original/779172d8-d50b-4386-a720-ae1ca561b916.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.119186111111111,
+        51.4550138888889
+      ]
+    },
+    "objectId": "ypbv6un6nu",
+    "thumbnail": {
+      "type": "File",
+      "name": "779172d8-d50b-4386-a720-ae1ca561b916.jpg",
+      "url": "/thumbnail/779172d8-d50b-4386-a720-ae1ca561b916.jpg"
+    },
+    "updatedAt": "2017-07-30T07:02:40.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "graffiti",
+      "street art",
+      "mural",
+      "painting",
+      "modern art",
+      "artwork"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-07-30T07:03:42.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "8d8d790b-2984-4738-b996-02e715b4a208.jpg",
+      "url": "/original/8d8d790b-2984-4738-b996-02e715b4a208.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.146266666666667,
+        51.5424
+      ]
+    },
+    "objectId": "2p8hrdbydd",
+    "thumbnail": {
+      "type": "File",
+      "name": "8d8d790b-2984-4738-b996-02e715b4a208.jpg",
+      "url": "/thumbnail/8d8d790b-2984-4738-b996-02e715b4a208.jpg"
+    },
+    "updatedAt": "2017-07-30T07:03:42.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "graffiti",
+      "street art",
+      "mural",
+      "artwork",
+      "painting",
+      "visual arts"
+    ]
+  },
+  {
+    "count_like": 0,
+    "count_report": 0,
+    "createdAt": "2017-07-30T07:04:36.000Z",
+    "description": "",
+    "image1": {
+      "type": "File",
+      "name": "ce19a658-30d1-4a80-8818-134c89f02fea.jpg",
+      "url": "/original/ce19a658-30d1-4a80-8818-134c89f02fea.jpg"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.147019444444444,
+        51.5428666666667
+      ]
+    },
+    "objectId": "8xckjbaee6",
+    "thumbnail": {
+      "type": "File",
+      "name": "ce19a658-30d1-4a80-8818-134c89f02fea.jpg",
+      "url": "/thumbnail/ce19a658-30d1-4a80-8818-134c89f02fea.jpg"
+    },
+    "updatedAt": "2017-07-30T07:04:36.000Z",
+    "userId": "s4V3TQoEqi",
+    "keywords": [
+      "art",
+      "graffiti",
+      "street art",
+      "mural",
+      "painting"
+    ]
+  }
+]

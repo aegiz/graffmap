@@ -1,0 +1,122 @@
+extends layout
+
+block content
+	.g-container
+		.main-logo
+			img(src="/img/graffmap-logo.png", alt="Graffmap Logo")
+		.pannel-right
+			.pannel-right-popin.pannel-right-popin--anything
+				.pannel-right-popin__inner
+					button(class="btn-close" aria-label="Close search form")
+						svg.icon.icon--cross(viewBox="0 0 24 24")
+							path(d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z")
+					.pannel-right-popin__form
+						input(name="search" type="search" placeholder="Search" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false")
+						span Type something or ESC to close
+					.pannel-right-popin__related
+						.suggestion
+							h3 May We Suggest a couple of keywords
+							p #red #blue #yes #yesyes #bla #bleuh
+			.pannel-right-popin.pannel-right-popin--city
+				.pannel-right-popin__inner
+					button(class="btn-close" aria-label="Close search form")
+						svg.icon.icon--cross(viewBox="0 0 24 24")
+							path(d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z")
+					.pannel-right-popin__form
+						input(id="search-city" name="search" type="search" placeholder="Search" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false")
+						span Type something or ESC to close
+						.pannel-right-popin__related
+							.suggestion
+								h3 May We Suggest a couple of cities
+							.cities
+								.cities__item(data-city="Paris")
+									p Paris
+									img(src="/img/paris.jpg", alt="Paris")
+								.cities__item(data-city="London")
+									p London
+									img(src="/img/london.jpg", alt="London")
+								.cities__item(data-city="Las vegas")
+									p Las Vegas
+									img(src="/img/vegas.jpg", alt="Las vegas")
+			if type === "pannel-right-close"
+				.pannel-right-popin.pannel-right-popin--graff(data-state="homepage")
+					.pannel-right-popin__inner
+						button(class="btn-close" aria-label="Close popin")
+							svg.icon.icon--cross(viewBox="0 0 24 24")
+								path(d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z")
+						.cover-container
+							.cover
+						.date-taken
+						.description
+						.author
+						.share Share
+			if type === "pannel-right-open"
+				.pannel-right-popin.pannel-right-popin--graff.open(data-state="graff")
+					.pannel-right-popin__inner
+						button(class="btn-close" aria-label="Close popin")
+							svg.icon.icon--cross(viewBox="0 0 24 24")
+								path(d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z")
+						.cover-container
+							.cover
+								img(src="/img/graffs/thumbnail/" + graffs[0]["name"] alt=graffs[0]["keywords"])
+							if graffs[0]["image2"]
+								.cover
+									img(src="/img/graffs/thumbnail/" + graffs[0]["image2"]["name"] alt=graffs[0]["description"])
+							if graffs[0]["image3"]
+								.cover
+									img(src="/img/graffs/thumbnail/" + graffs[0]["image3"]["name"] alt=graffs[0]["description"])
+						.date-taken
+							p=graffs[0]["createdAt"]
+						.description
+							if graffs[0]["description"]
+								p.title Description:
+								p=graffs[0]["description"]
+						.author
+							p.title Taken by:
+							p=graffs[0]["author"]
+						.share Share
+			if type === "pannel-right-404"
+				.pannel-right-popin.pannel-right-popin--graff.open(data-state="404")
+					.pannel-right-popin__inner
+						button(class="btn-close" aria-label="Close popin")
+							svg.icon.icon--cross(viewBox="0 0 24 24")
+								path(d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z")
+						.cover-container
+							.cover
+						.date-taken
+						.description
+							p Sorry, we didn't find the graff you were looking for
+							span =>
+							span 
+								a(href="/") Return to index
+						.author
+						.share Share
+			.pannel-right-bar
+				.pannel-right-bar__inner
+					.pannel-right-bar__search-anything
+						img(src="/img/search.svg", alt="search")
+					.pannel-right-bar__switch-city
+						img(src="/img/switch-location.svg", alt="Switch location")
+					.pannel-right-bar__information
+						img(src="/img/info.svg", alt="info")
+		.bottom-bar
+			.bottom-bar__actioner.bottom-bar__actioner--zoom-in
+				span +
+			.bottom-bar__actioner.bottom-bar__actioner--zoom-out
+				span -
+			.bottom-bar__actioner.bottom-bar__actioner--currentloc-icon
+				img(src="/img/currentloc.svg", alt="current location")
+			.bottom-bar__actioner.bottom-bar__actioner--grid-icon
+				img(src="/img/grid.svg", alt="display as grid")
+			.bottom-bar__inview
+		.show-full
+			button(class="btn-close" aria-label="Close search form")
+				svg.icon.icon--cross(viewBox="0 0 24 24")
+					path(d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z")
+			.show-full__img
+		.graffmap
+			.graffmap__helpers
+				.homeposition-helper
+				.grid-helper
+			each graff, index in graffs
+				.marker(data-id=graff.id data-lng=graff.lng data-lat=graff.lat data-name=graff.name)

@@ -1,0 +1,43 @@
+Use cases:
+	⁃	une personne veut explorer les graph sur une map globale
+	-  une personne veut explorer les graph ville par ville
+	-  une personne veut trouver les hotspot pas loin
+	-  une personne recherche un graph d'un artiste, d'un thème particulier
+
+Features de la V1:
+	⁃	Chercher des graphs par ville
+	⁃	Chercher des graphs proche de soit
+	⁃	Une recherche par ville
+	⁃	Une recherche par hastag / Mot clés
+	⁃	Une recherche par artiste
+	-  charger les points les plus proches uniquement
+
+Sera release plus tard:
+	- splash page avant meme de loader la map + little hints to show what correspond to what
+	- Timeline?
+	- Gerer les amas de points?
+	- passer sur mongoose pour avoir un schema correct de la BDD
+	- utiliser Algolia pour corriger les erreurs et faire des recherches plus precises par lieux 
+	https://preview.algolia.com/geo-search/
+	https://www.algolia.com/doc/guides/searching/geo-search/
+	⁃ uploaded un graph et lui donner une description / artiste / hashtag / position / hotspot ou non
+	⁃	Liker un graph
+	⁃	Se créer un compte 
+	⁃	Créer des parcours thématique 
+	⁃	Faire des Check in
+	⁃	Reporter un graph
+	⁃	Uploaded des photos supplémentaires
+	-  Dire si un graph est en bon état ou pas
+	-  Ajouter une liste de graff favoris
+
+V3
+
+	- Faire des parcours thematiques par ville
+	- Pouvoir exporter la carte des graffs au format Gmap pour les trouver rapidement sur son tel
+	- Savoir si un graff appartient à telle ou telle ville
+
+Inspiration:
+
+https://www.instagram.com/explore/locations/6440467/nantes/
+http://london.webatvantage.be/en/map
+https://codepen.io/ryanaltvater/pen/bdzROr

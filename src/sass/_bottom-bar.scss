@@ -1,0 +1,105 @@
+.bottom-bar {
+	width: calc(100% - #{$size-right-bar});
+	z-index: 2;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	transition: all 0.2s;
+	&:after {
+		content: '';
+		display: block;
+		width: 100%;
+		height: 5px;
+		background-color: $yellow_d;
+	}
+	&.bottom-bar--show {
+		bottom: $size-bottom-bar;
+		@include responsive(sm) {
+			bottom: 130px;
+		}
+	}
+
+	@include responsive(sm) {
+		left: auto;
+		right: 5px;
+		bottom: 50px;
+		width: 100%;
+	}
+}
+
+.bottom-bar__actioner {
+	cursor: pointer;
+	position: absolute;
+	right: 0;
+	background-color: $yellow_d;
+	width: 34px;
+	height: 34px;
+	@include flex(row, center, center);
+	transition: all 0.2s;
+	border: 1px solid $yellow_d;
+	&:hover {
+		border: 1px solid $brown_l;
+	}
+	img {
+		width: 20px;
+	}
+}
+
+.bottom-bar__actioner--zoom-in {
+	bottom: 107px;
+	@include fs(17);
+	font-weight: bold;
+}
+
+.bottom-bar__actioner--zoom-out {
+	bottom: 73px;
+	@include fs(21	);
+	font-weight: bold;
+}
+
+.bottom-bar__actioner--currentloc-icon {
+	bottom: 39px;
+}
+
+.bottom-bar__actioner--grid-icon {
+	bottom: 5px;
+	img {
+		opacity: 1;
+		transition: all 0.2s;
+		&:hover {
+			opacity: 0.8;
+		}
+	}
+}
+
+.bottom-bar__inview {
+	position: absolute;
+	top: 100%;
+	left: 0;
+	width: 100%;
+	background-color: rgba(254, 251, 218, 0.8);
+	cursor: move; /* fallback if grab cursor is unsupported */
+	cursor: grab;
+	cursor: -moz-grab;
+	cursor: -webkit-grab;
+	&:active {
+		cursor: grabbing;
+		cursor: -moz-grabbing;
+		cursor: -webkit-grabbing;
+	}
+	.item {
+		@include flex(column, center, center);
+		height: $size-bottom-bar;
+		transition: all 0.3s;
+		opacity: 1;
+		&:hover {
+			opacity: 0.8;
+		}
+		img {
+			margin: 5px;
+			width: 100%;
+			max-height: $size-bottom-bar;
+			object-fit: contain;
+		}
+	}
+}

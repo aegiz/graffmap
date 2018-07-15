@@ -1,0 +1,10 @@
+.graffmap {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	z-index: 1;
+	position: relative;
+	.marker {
+		display: none;
+	}
+}

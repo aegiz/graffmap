@@ -1,0 +1,53 @@
+{
+  "name": "graffmap",
+  "version": "1.0.0",
+  "description": "graffmap reborn",
+  "private": true,
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "gulp",
+    "test": "mocha -R spec ./test/*.js",
+    "lint": "eslint ./ || exit 0",
+    "lint-fix": "eslint ./ --fix || exit 0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/vision": "^0.14.0",
+    "body-parser": "^1.16.0",
+    "browser-sync": "^2.18.13",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.1",
+    "express-mongo-db": "^2.0.3",
+    "gm": "^1.23.0",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-clean-css": "^3.7.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "main-bower-files": "^2.13.1",
+    "mongodb": "^2.2.31",
+    "morgan": "^1.8.0",
+    "node-uuid": "^1.4.8",
+    "pug": "^2.0.0-beta6",
+    "serve-favicon": "^2.3.0",
+    "sharp": "^0.18.4",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "eslint": "^3.15.0",
+    "eslint-config-airbnb-base": "^11.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.1.0",
+    "gulp-plumber": "^1.1.0",
+    "mocha": "^3.1.0",
+    "prettier": "^1.9.2",
+    "supertest": "^3.0.0"
+  }
+}
