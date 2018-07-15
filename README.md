@@ -42,7 +42,7 @@ If you are interested in only getting the database of geolocated graff I opensou
 │   ├── images                # assets
 │   ├── sass                  # sass to compile
 │   └── scripts               # js to compile
-├── test/							# unit & func tests
+├── test/                     # unit & func tests
 ├── .gitignore                # specifies intentionally untracked files to ignore
 ├── app.js                    # app setup file
 ├── bower.json                # bower dependencies
