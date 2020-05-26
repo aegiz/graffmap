@@ -1,19 +1,15 @@
 ## Project purpose
 
-This is a side-project started in 2017.
-Given a database of thousands of geolocated graffitis, I made a simple UI to navigate and found the interesting streetart around me.
-
-Learn more about this project reading this [blog article](https://www.adrienrahier.com/blog/graffmap).
-If you are interested in only getting the database of geolocated graff I opensourced it [here](https://github.com/aegiz/graffiti-streetart-map-open-source).
+Given a database of thousands of [geolocated graffitis](https://github.com/aegiz/graffiti-streetart-map-open-source), I made a simple UI to navigate and found the interesting streetart around me.
 
 ## Dev stack
 
-* express - web application framework for node
-* mongo - Database
-* pug - template engine
-* sass - pre-processor CSS
-* bower - a package manager for the web
-* gulp - automate workflow
+- express - web application framework for node
+- mongo - Database
+- pug - template engine
+- sass - pre-processor CSS
+- bower - a package manager for the web
+- gulp - automate workflow
 
 ## Project Structure
 
@@ -56,14 +52,16 @@ If you are interested in only getting the database of geolocated graff I opensou
 
 ### Prerequisites
 
-* Having Gulp installed on your machine (either globally or only in this folder)
+- Having Gulp installed on your machine (either globally or only in this folder)
+
 ```sh
 $ npm install gulp-cli -g
 $ npm install gulp -D
 ```
-* Having Node.js installed `http://nodejs.org`
-* Having MongoDB installed `brew install mongodb` (don't forget to create a folder for the db: `mkdir -p /data/db`)
-* An internet connexion
+
+- Having Node.js installed `http://nodejs.org`
+- Having MongoDB installed `brew install mongodb` (don't forget to create a folder for the db: `mkdir -p /data/db`)
+- An internet connexion
 
 ### Install code dependancies
 
@@ -124,9 +122,11 @@ To import all the images you will have to:
 2- Extract and place all the images in the sub folders of /public/img/graffs
 
 ### Test
+
 ```sh
 $ npm test
 ```
+
 ### Lint
 
 ```sh
